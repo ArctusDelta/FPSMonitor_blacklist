@@ -1,0 +1,53 @@
+ts3client_win32.exe
+ts3client_win64.exe
+excel.exe
+winword.exe
+msaccess.exe
+mspub.exe
+powerpnt.exe
+photoshop.exe
+obs64.exe
+nvidia share.exe
+launcher.exe
+mpc-hc64.exe
+setup.exe
+adobe premiere pro.exe
+skype.exe
+updaterui.exe
+bethesdanetlauncher.exe
+gtavlauncher.exe
+basemarkgpulauncher.exe
+battle.net.exe
+gamenet.ui.exe
+bsglauncher.exe
+screenclippinghost.exe
+rdclient.windows.exe
+microsoft.photos.exe
+nortonutilitiespremiumsetup.exe
+nup.exe
+officec2rclient.exe
+opera_gx_splash.exe
+officec2rclient.exe
+xboxinstaller.exe
+xboxpcapp.exe
+bsglauncher.exe
+microsoft.photos.exe
+winstore.app.exe
+vs_setup_bootstrapper.exe
+activesync.exe
+update.exe
+symdiagui4.exe
+wwahost.exe
+v380.exe
+teamviewer.exe
+windowsterminal.exe
+wallpaper64.exe
+nortonsecurity.exe
+client.exe
+googleearth.exe
+maps.exe
+streamlabs chatbot.exe
+flashbios.exe
+reshade_setup_4.9.1 (1).exe
+streamavatars.exe
+paintdotnet.exe
