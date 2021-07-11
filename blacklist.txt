@@ -51,3 +51,8 @@ flashbios.exe
 reshade_setup_4.9.1 (1).exe
 streamavatars.exe
 paintdotnet.exe
+CrashReportClient.exe
+vlc.exe
+video.ui.exe
+stubbsthezombie.exe
+
